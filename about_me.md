@@ -14,7 +14,7 @@
 
 <details>
 
-<summary>답변</summary>
+<summary>답변!</summary>
 
 ```
 이 부분은 온전히 개인적인 내용이라 따로 담지 않겠습니다만, 저의 경우에는 이렇게 대답할 것 같습니다
